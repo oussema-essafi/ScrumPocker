@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Nouveau profil",
+    "Projects": [
+      {
+        "Path": "ScrumPokerApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
